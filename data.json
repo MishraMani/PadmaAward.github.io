@@ -1,7 +1,7 @@
 {
 	"cases_time_series": [
 		{
-			"dailyconfirmed": "1",
+			"dailyBRatna": "1",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "30 January ",
@@ -19,7 +19,7 @@
 			"totalrecovered": "0"
 		},
 		{
-			"dailyconfirmed": "0",
+			"dailyBRatna": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "01 February ",
@@ -1153,7 +1153,7 @@
 			"totalrecovered": "113224"
 		},
 		{
-			"dailyconfirmed": "10408",
+			"dailyBRatna": "10408",
 			"dailydeceased": "297",
 			"dailyrecovered": "5433",
 			"date": "06 June ",
@@ -1162,7 +1162,7 @@
 			"totalrecovered": "118657"
 		},
 		{
-			"dailyconfirmed": "10882",
+			"dailyBRatna": "10882",
 			"dailydeceased": "261",
 			"dailyrecovered": "5191",
 			"date": "07 June ",
@@ -1171,7 +1171,7 @@
 			"totalrecovered": "123848"
 		},
 		{
-			"dailyconfirmed": "8536",
+			"dailyBRatna": "8536",
 			"dailydeceased": "271",
 			"dailyrecovered": "5651",
 			"date": "08 June ",
