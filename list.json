@@ -4063,8 +4063,8 @@
     "districtData": {
       "Chandrmani mishra": {
         "notes": "",
-        "Bharat Ratna": 1,
-        "confirmed": 0,
+        "active": 0,
+        "ratna": 0,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -4075,8 +4075,8 @@
       },
       "Ajaykumar bhdud fkji nif": {
         "notes": "",
-        "Bharat Ratna": 0,
-        "confirmed": 0,
+        "active": 0,
+        "ratna": 0,
         "deceased": 1,
         "recovered": 0,
         "delta": {
@@ -4088,7 +4088,7 @@
       "Amravati": {
         "notes": "",
         "active": 108,
-        "confirmed": 299,
+        "ratna": 9,
         "deceased": 18,
         "recovered": 173,
         "delta": {
