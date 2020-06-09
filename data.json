@@ -5,7 +5,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "30 January ",
-			"totalconfirmed": "1",
+			"totalBRatna": "1",
 			"totaldeceased": "0",
 			"totalrecovered": "0"
 		},
@@ -23,7 +23,7 @@
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "01 February ",
-			"totalconfirmed": "1",
+			"totalBRatna": "1",
 			"totaldeceased": "0",
 			"totalrecovered": "0"
 		},
@@ -1157,7 +1157,7 @@
 			"dailydeceased": "297",
 			"dailyrecovered": "5433",
 			"date": "06 June ",
-			"totalconfirmed": "246603",
+			"totalBRatna": "246603",
 			"totaldeceased": "6945",
 			"totalrecovered": "118657"
 		},
@@ -1166,7 +1166,7 @@
 			"dailydeceased": "261",
 			"dailyrecovered": "5191",
 			"date": "07 June ",
-			"totalconfirmed": "257485",
+			"totalBRatna": "257485",
 			"totaldeceased": "7206",
 			"totalrecovered": "123848"
 		},
@@ -1175,7 +1175,7 @@
 			"dailydeceased": "271",
 			"dailyrecovered": "5651",
 			"date": "08 June ",
-			"totalconfirmed": "266021",
+			"totalBRatna": "266021",
 			"totaldeceased": "7477",
 			"totalrecovered": "129499"
 		}
