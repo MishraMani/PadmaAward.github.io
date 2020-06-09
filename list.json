@@ -4064,7 +4064,7 @@
       "Chandrmani mishra": {
         "notes": "",
         "active": 0,
-        "ratna": 1,
+        "BRatna": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -4076,7 +4076,7 @@
       "Ajaykumar bhdud fkji nif": {
         "notes": "",
         "active": 0,
-        "ratna": 1,
+        "BRatna": 1,
         "deceased": 1,
         "recovered": 0,
         "delta": {
@@ -4088,7 +4088,7 @@
       "Amravati": {
         "notes": "",
         "active": 108,
-        "ratna": 9,
+        "BRatna": 9,
         "deceased": 18,
         "recovered": 173,
         "delta": {
@@ -4100,7 +4100,7 @@
       "Aurangabad": {
         "notes": "",
         "active": 705,
-        "confirmed": 2036,
+        "BRatna": 2036,
         "deceased": 100,
         "recovered": 1231,
         "delta": {
