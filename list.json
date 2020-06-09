@@ -7424,7 +7424,7 @@
       "Railway Quarantine": {
         "notes": "",
         "active": 205,
-        "confirmed": 266,
+        "BRatna": 266,
         "deceased": 0,
         "recovered": 61,
         "delta": {
@@ -7436,7 +7436,7 @@
       "Airport Quarantine": {
         "notes": "",
         "active": 120,
-        "confirmed": 193,
+        "BRatna": 193,
         "deceased": 1,
         "recovered": 72,
         "delta": {
@@ -7448,7 +7448,7 @@
       "Other State": {
         "notes": "",
         "active": -3,
-        "confirmed": 0,
+        "BRatna": 0,
         "deceased": 3,
         "recovered": 0,
         "delta": {
@@ -7460,7 +7460,7 @@
       "Ariyalur": {
         "notes": "",
         "active": 20,
-        "confirmed": 381,
+        "BRatna": 381,
         "deceased": 0,
         "recovered": 361,
         "delta": {
