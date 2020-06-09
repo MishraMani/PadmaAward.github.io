@@ -1197,9 +1197,9 @@
 		},
 		{
 			"active": "44385",
-			"confirmed": "1",
+			"BRatna": "1",
 			"deaths": "3169",
-			"deltaconfirmed": "0",
+			"deltaBRatna": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "15/01/2020 23:36:48",
