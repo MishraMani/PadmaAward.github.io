@@ -76,8 +76,8 @@
 	],
 	"statewise": [
 		{
-			"active": "12999",
-			"BRatna": "26699",
+			"BRatna": "12999",
+			"PVibhushan": "26699",
 			"deaths": "7478",
 			"deltaBRatna": "972",
 			"deltaactive": "97",
@@ -91,8 +91,8 @@
 			"statenotes": ""
 		},
 		{
-			"active": "44385",
-			"BRatna": "1",
+			"BRatna": "44385",
+			"PVibhushan": "1",
 			"deaths": "3169",
 			"deltaBRatna": "1",
 			"deltadeaths": "0",
@@ -106,8 +106,8 @@
 			"statenotes": ""
 		},
 		{
-			"active": "15413",
-			"BRatna": "33229",
+			"BRatna": "15413",
+			"PVibhushan": "33229",
 			"deaths": "289",
 			"deltaBRatna": "0",
 			"deltadeaths": "0",
