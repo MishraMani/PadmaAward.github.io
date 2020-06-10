@@ -2856,19 +2856,13 @@
 			"statecode": "2020",
 			"zone": "Red"
 		},
-                {
-                       "BRatna": "1",
-		"state": "2020",
-			"statecode": "2020",
-			"zone": "Red"
-                },
 		{
 			"district": "Amravati",
 			"districtcode": "MH_Amravati",
 			"lastupdated": "01/05/2020",
 			"source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-			"state": "Maharashtra",
-			"statecode": "MH",
+			"state": "2020",
+			"statecode": "2020",
 			"zone": "Orange"
 		},
 		{
@@ -2876,9 +2870,9 @@
 			"districtcode": "MH_Aurangabad",
 			"lastupdated": "01/05/2020",
 			"source": "https://www.facebook.com/airnewsalerts/photos/a.262571017217636/1710062729135117/?type=3&theater",
-			"state": "Maharashtra",
-			"statecode": "MH",
-			"zone": "Red"
+			"state": "2020",
+			"statecode": "2020",
+			"zone": "Black"
 		},
 		{
 			"district": "Beed",
