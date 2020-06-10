@@ -76,8 +76,8 @@
 	],
 	"statewise": [
 		{
-			"active": "129999",
-			"BRatna": "266992",
+			"active": "12999",
+			"BRatna": "26699",
 			"deaths": "7478",
 			"deltaBRatna": "972",
 			"deltaactive": "97",
@@ -94,8 +94,9 @@
 			"active": "44385",
 			"BRatna": "1",
 			"deaths": "3169",
-			"deltaBRatna": "0",
+			"deltaBRatna": "1",
 			"deltadeaths": "0",
+			"deltaactive": "1",
 			"deltarecovered": "0",
 			"lastupdatedtime": "15/01/2020 23:36:48",
 			"migratedother": "0",
