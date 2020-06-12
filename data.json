@@ -104,20 +104,6 @@
 			"statenotes": ""
 		},
 		{
-			"BRatna": "15413",
-			"PVibhushan": "33229",
-			"deaths": "289",
-			"deltaBRatna": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "08/06/2020 19:20:48",
-			"migratedother": "0",
-			"recovered": "17527",
-			"state": "Tamil Nadu",
-			"statecode": "TN",
-			"statenotes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu"
-		},
-		{
 			"active": "17712",
 			"confirmed": "29943",
 			"deaths": "874",
