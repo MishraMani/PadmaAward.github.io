@@ -1,5 +1,10 @@
 {
-	
+	"cases_time_series": [
+		
+		
+		{
+			}
+	],
 	"statewise": [
 		{
 			"BRatna": "12999",
@@ -519,6 +524,22 @@
 			"statecode": "LD",
 			"statenotes": ""
 		}
+	],
+	"tested": [
+
+		{
+			"individualstestedperconfirmedcase": "",
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "141682",
+			"source": "https://manimishra",
+			"testpositivityrate": "",
+			"testsconductedbyprivatelabs": "",
+			"testsperconfirmedcase": "",
+			"testspermillion": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "",
+			"totalsamplestested": "4916116",
+			"updatetimestamp": "09/06/2020 09:00:00"
+		}
 	]
-	
 }
