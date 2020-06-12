@@ -52,10 +52,10 @@
       },
       "Beedwe": {
         "notes": "",
-        "active": 11,
-        "confirmed": 56,
-        "deceased": 1,
-        "recovered": 44,
+        "BRatna": 11,
+        "PVibhushan": 56,
+        "PBhushan": 1,
+        "PShri": 44,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
