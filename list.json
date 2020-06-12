@@ -7253,6 +7253,491 @@
     },
     "statecode": "TG"
   },
+  "Tamil Nadu": {
+    "districtData": {
+      "Railway Quarantine": {
+        "notes": "",
+        "active": 205,
+        "BRatna": 266,
+        "deceased": 0,
+        "recovered": 61,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Airport Quarantine": {
+        "notes": "",
+        "active": 120,
+        "BRatna": 193,
+        "deceased": 1,
+        "recovered": 72,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Other State": {
+        "notes": "",
+        "active": -3,
+        "BRatna": 0,
+        "deceased": 3,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Ariyalur": {
+        "notes": "",
+        "active": 20,
+        "BRatna": 381,
+        "deceased": 0,
+        "recovered": 361,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Chengalpattu": {
+        "notes": "",
+        "active": 1185,
+        "confirmed": 1988,
+        "deceased": 15,
+        "recovered": 788,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Chennai": {
+        "notes": "",
+        "active": 11817,
+        "confirmed": 23298,
+        "deceased": 225,
+        "recovered": 11256,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Coimbatore": {
+        "notes": "",
+        "active": 13,
+        "confirmed": 161,
+        "deceased": 1,
+        "recovered": 147,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Cuddalore": {
+        "notes": "",
+        "active": 39,
+        "confirmed": 491,
+        "deceased": 1,
+        "recovered": 451,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Dharmapuri": {
+        "notes": "",
+        "active": 10,
+        "confirmed": 18,
+        "deceased": 0,
+        "recovered": 8,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Dindigul": {
+        "notes": "",
+        "active": 50,
+        "confirmed": 176,
+        "deceased": 2,
+        "recovered": 124,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Erode": {
+        "notes": "",
+        "active": 4,
+        "confirmed": 75,
+        "deceased": 1,
+        "recovered": 70,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Kallakurichi": {
+        "notes": "",
+        "active": 58,
+        "confirmed": 292,
+        "deceased": 0,
+        "recovered": 234,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Kancheepuram": {
+        "notes": "",
+        "active": 209,
+        "confirmed": 534,
+        "deceased": 4,
+        "recovered": 321,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Kanyakumari": {
+        "notes": "",
+        "active": 34,
+        "confirmed": 94,
+        "deceased": 1,
+        "recovered": 59,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Karur": {
+        "notes": "",
+        "active": 9,
+        "confirmed": 87,
+        "deceased": 0,
+        "recovered": 78,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Krishnagiri": {
+        "notes": "",
+        "active": 16,
+        "confirmed": 37,
+        "deceased": 0,
+        "recovered": 21,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Madurai": {
+        "notes": "",
+        "active": 74,
+        "confirmed": 317,
+        "deceased": 3,
+        "recovered": 240,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Nagapattinam": {
+        "notes": "",
+        "active": 30,
+        "confirmed": 81,
+        "deceased": 0,
+        "recovered": 51,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Namakkal": {
+        "notes": "",
+        "active": 7,
+        "confirmed": 85,
+        "deceased": 1,
+        "recovered": 77,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Nilgiris": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 14,
+        "deceased": 0,
+        "recovered": 14,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Perambalur": {
+        "notes": "",
+        "active": 2,
+        "confirmed": 143,
+        "deceased": 0,
+        "recovered": 141,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Pudukkottai": {
+        "notes": "",
+        "active": 12,
+        "confirmed": 36,
+        "deceased": 1,
+        "recovered": 23,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Ramanathapuram": {
+        "notes": "",
+        "active": 39,
+        "confirmed": 112,
+        "deceased": 1,
+        "recovered": 72,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Ranipet": {
+        "notes": "",
+        "active": 43,
+        "confirmed": 138,
+        "deceased": 1,
+        "recovered": 94,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Salem": {
+        "notes": "",
+        "active": 71,
+        "confirmed": 221,
+        "deceased": 0,
+        "recovered": 150,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Sivaganga": {
+        "notes": "",
+        "active": 10,
+        "confirmed": 42,
+        "deceased": 0,
+        "recovered": 32,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Tenkasi": {
+        "notes": "",
+        "active": 18,
+        "confirmed": 106,
+        "deceased": 0,
+        "recovered": 88,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Thanjavur": {
+        "notes": "",
+        "active": 28,
+        "confirmed": 117,
+        "deceased": 0,
+        "recovered": 89,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Theni": {
+        "notes": "",
+        "active": 19,
+        "confirmed": 126,
+        "deceased": 2,
+        "recovered": 105,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Thiruvallur": {
+        "notes": "",
+        "active": 640,
+        "confirmed": 1386,
+        "deceased": 14,
+        "recovered": 732,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Thiruvarur": {
+        "notes": "",
+        "active": 17,
+        "confirmed": 62,
+        "deceased": 0,
+        "recovered": 45,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Thoothukkudi": {
+        "notes": "",
+        "active": 154,
+        "confirmed": 355,
+        "deceased": 2,
+        "recovered": 199,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Tiruchirappalli": {
+        "notes": "",
+        "active": 14,
+        "confirmed": 116,
+        "deceased": 1,
+        "recovered": 101,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Tirunelveli": {
+        "notes": "",
+        "active": 45,
+        "confirmed": 390,
+        "deceased": 1,
+        "recovered": 344,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Tirupathur": {
+        "notes": "",
+        "active": 11,
+        "confirmed": 42,
+        "deceased": 0,
+        "recovered": 31,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Tiruppur": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 114,
+        "deceased": 0,
+        "recovered": 114,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Tiruvannamalai": {
+        "notes": "",
+        "active": 249,
+        "confirmed": 503,
+        "deceased": 2,
+        "recovered": 252,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Vellore": {
+        "notes": "",
+        "active": 54,
+        "confirmed": 95,
+        "deceased": 3,
+        "recovered": 38,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Viluppuram": {
+        "notes": "",
+        "active": 54,
+        "confirmed": 384,
+        "deceased": 3,
+        "recovered": 327,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Virudhunagar": {
+        "notes": "",
+        "active": 36,
+        "confirmed": 153,
+        "deceased": 0,
+        "recovered": 117,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      }
+    },
+    "statecode": "TN"
+  },
   "Tripura": {
     "districtData": {
       "Dhalai": {
