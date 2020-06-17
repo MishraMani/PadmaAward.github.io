@@ -3,62 +3,29 @@
   "2020": {
     "districtData": {
       "Chandramani Mishra": {
-        "notes": "No Award",
-        "BRatna": 0,
-        "PVibhushan": 0,
-        "PBhushan": 0,
-        "PShri": 0
-      },
-      "Shri George Fernandes": {
-        "notes": "(Posthumous)",
-        "BRatna": 0,
-        "PVibhushan": 1,
-        "PBhushan": 0,
-        "PShri": 0
-      },
-      "Shri Arun Jaitley": {
-        "notes": "(Posthumous)",
-        "BRatna": 0,
-        "PVibhushan": 1,
-        "PBhushan": 0,
-        "PShri": 0
-      },
-      "Sir Anerood Jugnauth GCSK": {
         "notes": "",
-        "BRatna": 0,
-        "PVibhushan": 1,
-        "PBhushan": 0,
-        "PShri": 0
+        "active": ,
+        "BRatna": 10,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       },
-      "Smt. M. C. Mary Kom": {
-        "notes": "",
-        "BRatna": 0,
-        "PVibhushan": 1,
-        "PBhushan": 0,
-        "PShri": 0
+      "Ajay Kumar": {
+        "notes": "passaway",
+        "active": 0,
+        "BRatna": 1,
+        "deceased": 1,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       },
-      "Shri Chhannulal Mishra": {
-        "notes": "",
-        "BRatna": 0,
-        "PVibhushan": 1,
-        "PBhushan": 0,
-        "PShri": 0
-      },
-      "Smt. Sushma Swaraj": {
-        "notes": "(Posthumous)",
-        "BRatna": 0,
-        "PVibhushan": 1,
-        "PBhushan": 0,
-        "PShri": 0
-      },
-      "Sri Vishveshateertha Swamiji Sri Pejavara Adhokhaja Matha Udupi": {
-        "notes": "(Posthumous)",
-        "BRatna": 0,
-        "PVibhushan": 1,
-        "PBhushan": 0,
-        "PShri": 0
-      },
-
       "Amravati": {
         "notes": "",
         "active": 108,
